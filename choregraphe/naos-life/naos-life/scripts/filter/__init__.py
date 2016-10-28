@@ -1,0 +1,14 @@
+from behaviorfilter import *
+
+import behaviorfilter
+reload(behaviorfilter)
+
+BehaviorFilter = behaviorfilter.BehaviorFilter
+BehaviorFilterExcitation = behaviorfilter.BehaviorFilterExcitation
+BehaviorFilterBattery = behaviorfilter.BehaviorFilterBattery
+BehaviorFilterPeriodicity = behaviorfilter.BehaviorFilterPeriodicity
+BehaviorFilterFrequency = behaviorfilter.BehaviorFilterFrequency
+BehaviorFilterContinuity = behaviorfilter.BehaviorFilterContinuity
+BehaviorFilterResources = behaviorfilter.BehaviorFilterResources
+BehaviorFilterPosition = behaviorfilter.BehaviorFilterPosition
+BehaviorFilterTemperature = behaviorfilter.BehaviorFilterTemperature

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="naos-life-2b67fe">
+ <names>
+  <name lang="en_US">naos-life</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="naos-life">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="naos-life/naos-life">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

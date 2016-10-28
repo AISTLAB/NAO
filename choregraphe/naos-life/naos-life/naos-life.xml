@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest versionCode="1.0.1" naoqiVersion="1.12">
+  <nature>application</nature>
+  <category />
+  <resources />
+  <local language="chinese">
+    <name>NAO's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+  <local language="english">
+    <name>NAO's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+  <local language="finnish">
+    <name>NAO's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+  <local language="french">
+    <name>NAO's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+  <local language="german">
+    <name>NAO's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+  <local language="japanese">
+    <name>Nao's Life</name>
+    <description></description>
+    <triggers>
+      <triggerSentences>
+      </triggerSentences>
+    </triggers>
+    <loadingsentences>
+    </loadingsentences>
+  </local>
+</manifest>
