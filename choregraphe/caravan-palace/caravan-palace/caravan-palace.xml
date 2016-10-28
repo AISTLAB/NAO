@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest versionCode="1.0.1" naoqiVersion="1.12">
+  <nature>application</nature>
+  <category />
+  <resources />
+  <local language="chinese">
+    <name>上海舞</name>
+    <description>闹跳上海舞</description>
+    <triggers>      <triggerSentences>
+        <sentence>上海舞</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>好的，我给大家跳一个老上海的舞曲</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="english">
+    <name>Caravan palace dance</name>
+    <description>Nao dances on the caravan palace music.</description>
+    <triggers>      <triggerSentences>
+        <sentence>Caravan palace</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>This dance is really dynamic.</loadingsentence>
+      <loadingsentence>You will be amazed.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="french">
+    <name>Danse caravane palace</name>
+    <description>Nao danse sur la musique caravan palace</description>
+    <triggers>      <triggerSentences>
+        <sentence>Caravane palace</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>Cette danse est très dynamique.</loadingsentence>
+      <loadingsentence>Vous allez adorer.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="spanish">
+    <name>Baile Caravan palas</name>
+    <description>Nao baila con la musica de caravan palas</description>
+    <triggers>      <triggerSentences>
+        <sentence>Caravan palas</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>Este baile es muy dinámico</loadingsentence>
+    </loadingsentences>
+  </local>
+</manifest>

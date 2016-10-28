@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="nao_brainv12015-07-23-d2ad13">
+ <names>
+  <name lang="en_US">NAO_BRAIN v1 2015-07-23</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">XHU AISTLAB</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement maxVersion="2.1.3.3" minVersion="2.1.3.3"/>
+  <robotRequirement model="NAO_H25"/>
+ </requirements>
+</package>
