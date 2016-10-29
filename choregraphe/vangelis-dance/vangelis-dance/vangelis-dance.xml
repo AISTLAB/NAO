@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest versionCode="1.0.1" naoqiVersion="1.12">
+  <nature>application</nature>
+  <category />
+  <resources />
+  <local language="chinese">
+    <name>来个惊喜</name>
+    <description>闹跳先锋舞</description>
+    <triggers>      <triggerSentences>
+        <sentence>先锋舞/铭记</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>我的芭蕾舞跳的可好呢</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="english">
+    <name>The vangelis dance</name>
+    <description>Nao dances on the vangelis music.</description>
+    <triggers>      <triggerSentences>
+        <sentence>Vangelis</sentence>
+        <sentence>Impress us</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>I am really proud of this dance.</loadingsentence>
+      <loadingsentence>I hope it will impress you.</loadingsentence>
+      <loadingsentence>Pay attention.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="french">
+    <name>La dance vangélice</name>
+    <description>Nao danse sur la musique vangelis</description>
+    <triggers>      <triggerSentences>
+        <sentence>Vangélice</sentence>
+        <sentence>Impressionne nous</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>Je suis très fier de cette danse.</loadingsentence>
+      <loadingsentence>J'espère que ça va vous impressionner.</loadingsentence>
+      <loadingsentence>Soyez attentifs.</loadingsentence>
+    </loadingsentences>
+  </local>
+  <local language="spanish">
+    <name>El baile vangelis</name>
+    <description>Nao baila con la musica de Vangelis</description>
+    <triggers>      <triggerSentences>
+        <sentence>Vangelis</sentence>
+        <sentence>Sorprendenos</sentence>
+      </triggerSentences>
+    </triggers>    <loadingsentences>
+      <loadingsentence>Estoy muy orgulloso de este baile.</loadingsentence>
+      <loadingsentence>Espero que te impresione.</loadingsentence>
+      <loadingsentence>Presta atencion</loadingsentence>
+    </loadingsentences>
+  </local>
+</manifest>

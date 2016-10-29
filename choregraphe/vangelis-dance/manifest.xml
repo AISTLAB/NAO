@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="vangelis-dance_1-26e5a2">
+ <names>
+  <name lang="en_US">vangelis-dance_1</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="vangelis-dance">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="vangelis-dance/vangelis-dance">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
